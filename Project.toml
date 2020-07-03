@@ -1,0 +1,8 @@
+name = "CodeCoffe_Test2"
+uuid = "5f2c0fba-d927-42f7-be25-644bb0cb6e1c"
+authors = ["LudwigBoess <lboess@usm.lmu.de>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
